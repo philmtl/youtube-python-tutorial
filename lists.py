@@ -1,0 +1,1 @@
+friends = ["kevin", "karen", "jim"]
